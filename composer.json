@@ -3,7 +3,8 @@
     "behat/behat": "2.4.*@stable",
     "behat/mink": "@dev",
     "behat/mink-goutte-driver": "*",
-    "behat/mink-extension": "*@dev"
+    "behat/mink-extension": "*@dev",
+    "drupal/drupal-extension": "*"
   },
   "minimum-stability": "dev",
     "config": {
