@@ -1,0 +1,5 @@
+# behat.yml
+default:
+  extensions:
+    Behat\MinkExtension\Extension:
+      goutte: ~
